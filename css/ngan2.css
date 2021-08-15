@@ -1,0 +1,81 @@
+h1 {
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 110px;
+}
+div {
+    border: 1px solid rgb(25, 230, 6);
+    color: rgba(0, 0, 0, 0.507);
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+table, label, td {
+    color: rgb(113, 148, 18);
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    width: 14px;
+}
+input[type="email"] {
+    background-color: rgba(128, 128, 128, 0.329);
+    color: rgb(151, 37, 37);
+    font-family: monospace;
+    border: none;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type="password"] {
+    background-color: rgba(128, 128, 128, 0.329);
+    color: rgb(173, 15, 160);
+    font-family: monospace;
+    border: none;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type="submit"] {
+    background-color: rgb(14, 155, 56);
+    color: white;
+    font-family: monospace;
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type="reset"] {
+    background-color: rgb(17, 230, 159);
+    color: white;
+    font-family: monospace;
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
